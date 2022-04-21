@@ -1,0 +1,25 @@
+{
+  "name": "fake-server",
+  "version": "1.0.0",
+  "description": "Fake Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/subhamghimire/fake-server.git"
+  },
+  "keywords": [
+    "fake server"
+  ],
+  "author": "Subham Ghimire",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/subhamghimire/fake-server/issues"
+  },
+  "homepage": "https://github.com/subhamghimire/fake-server#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

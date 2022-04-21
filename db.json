@@ -1,0 +1,16 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Subham Ghimire",
+      "image": "https://scontent.fsif1-1.fna.fbcdn.net/v/t39.30808-6/274202554_244541827867074_5940060743336422155_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=vWFDYpVLpc0AX_ApCR7&_nc_ht=scontent.fsif1-1.fna&oh=00_AT9mPQ_ixGReiCLREo-vAjITe2V9muaeYMO73oEyDHwx7Q&oe=6266988B",
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "Nikhil Shrestha",
+      "image": "https://scontent.fsif1-1.fna.fbcdn.net/v/t39.30808-6/217797869_3876072029170121_1564595892391016033_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=xZ_JJt42I2kAX_6zY2F&_nc_ht=scontent.fsif1-1.fna&oh=00_AT8QQgyXSUbsXA-qLjku0Yx3a5c_L8x5CcI0_zgtvMJvPg&oe=6266773F",
+      "active": false
+    }
+  ]
+}
