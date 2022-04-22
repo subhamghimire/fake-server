@@ -2,15 +2,51 @@
   "employees": [
     {
       "id": 1,
+      "name": "Bipin Dhimal",
+      "image": "https://scontent.fsif1-1.fna.fbcdn.net/v/t31.18172-8/30954238_1277452615725367_5315824504563059190_o.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=jClWF4Efx1EAX-soFvU&_nc_ht=scontent.fsif1-1.fna&oh=00_AT9BKjs8LtNhUfUwlieCxzXsi2OeejDyeHvEsnJa_US9QQ&oe=6288F106",
+      "active": true
+    },
+    {
+      "id": 2,
+      "name": "Ekta Stha",
+      "image": "https://scontent.fsif1-1.fna.fbcdn.net/v/t39.30808-6/267803646_439167117762477_7965578202775956038_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=E5CIbO9v2DIAX8m3Dtl&tn=uOxggjsM_lIfGRqR&_nc_ht=scontent.fsif1-1.fna&oh=00_AT-mruUmdTdo4KEhrHaPymanVJtZhowTIhxlPmk2CzojWg&oe=62671D7C",
+      "active": true
+    },
+    {
+      "id": 3,
+      "name": "Nikhil Shrestha",
+      "image": "https://scontent.fsif1-1.fna.fbcdn.net/v/t39.30808-6/217797869_3876072029170121_1564595892391016033_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=xZ_JJt42I2kAX_6zY2F&_nc_ht=scontent.fsif1-1.fna&oh=00_AT8QQgyXSUbsXA-qLjku0Yx3a5c_L8x5CcI0_zgtvMJvPg&oe=6266773F",
+      "active": false
+    },
+    {
+      "id": 4,
+      "name": "Pradeep Khadka",
+      "image": "https://scontent.fsif1-1.fna.fbcdn.net/v/t39.30808-6/272939867_2128364340653757_7813978328919746381_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=H4WTAK9yc2gAX8OxFN_&_nc_ht=scontent.fsif1-1.fna&oh=00_AT-QYfhNkDDgxqW4uKZfuX0aLHZd2AKtvYnzK_2kCCRnkA&oe=6268031A",
+      "active": false
+    },
+    {
+      "id": 5,
+      "name": "Pranita Paudel",
+      "image": "https://scontent.fsif1-1.fna.fbcdn.net/v/t39.30808-1/276110595_498527298529448_1580096171521396475_n.jpg?stp=dst-jpg_p320x320&_nc_cat=108&ccb=1-5&_nc_sid=7206a8&_nc_ohc=51x7ojR6vm4AX_TWid4&_nc_ht=scontent.fsif1-1.fna&oh=00_AT-Xx-imKxRnDJ5MFWFO83_GYMTnTMHxghjktltL_DSkBQ&oe=6266D41A",
+      "active": false
+    },
+    {
+      "id": 6,
+      "name": "Royesh Thapa",
+      "image": "https://scontent.fsif1-1.fna.fbcdn.net/v/t1.6435-9/132046457_3653981118029559_7230968478843164228_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=2jcsAVkyxPgAX-qj5ri&_nc_ht=scontent.fsif1-1.fna&oh=00_AT_I2HV4ThF_ETuTvjEM6GKW34mrrzJxqJ-Ft8SIL_2oTA&oe=6289A22D",
+      "active": false
+    },
+    {
+      "id": 7,
       "name": "Subham Ghimire",
       "image": "https://scontent.fsif1-1.fna.fbcdn.net/v/t39.30808-6/274202554_244541827867074_5940060743336422155_n.jpg?_nc_cat=107&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=vWFDYpVLpc0AX_ApCR7&_nc_ht=scontent.fsif1-1.fna&oh=00_AT9mPQ_ixGReiCLREo-vAjITe2V9muaeYMO73oEyDHwx7Q&oe=6266988B",
       "active": true
     },
     {
-      "id": 2,
-      "name": "Nikhil Shrestha",
-      "image": "https://scontent.fsif1-1.fna.fbcdn.net/v/t39.30808-6/217797869_3876072029170121_1564595892391016033_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=xZ_JJt42I2kAX_6zY2F&_nc_ht=scontent.fsif1-1.fna&oh=00_AT8QQgyXSUbsXA-qLjku0Yx3a5c_L8x5CcI0_zgtvMJvPg&oe=6266773F",
-      "active": false
+      "id": 8,
+      "name": "Sujan Dahal",
+      "image": "https://scontent.fsif1-1.fna.fbcdn.net/v/t39.30808-1/217641010_197871345609055_2775557425760492282_n.jpg?stp=dst-jpg_p320x320&_nc_cat=105&ccb=1-5&_nc_sid=7206a8&_nc_ohc=UKAyAoPxQKgAX-GFVob&_nc_ht=scontent.fsif1-1.fna&oh=00_AT8J5TFIfnO-iitQIcf5mRhwe9BraWNA0X4g0q7cBh2Rig&oe=6267DF63",
+      "active": true
     }
   ]
 }
